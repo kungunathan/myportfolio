@@ -1,8 +1,24 @@
 h3{
     color:red
     ;text-align:center;
-  font: size 30px;}
+  font: size 30px;
+}
   p{
     text-align: justify;
+    
+    text-decoration-color: aquamarine;
+  /* margin-top: 30px;
+   margin-right: 80px;
+   margin-bottom: 60px;
+   margin-left: 700pc;*/
+    margin:50px 100px 150px 200px
   }
-  body{background-color: aqua;}
+
+  img{ 
+      width: 200px;
+      height: 200px;
+      border-top: 2px dashed red;
+      border-radius: 50%;
+      
+  }
+
